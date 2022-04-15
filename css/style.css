@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+html{
+    scroll-behavior: smooth;
+}
 .responsive {
     width: 100%;
     height:400px;
