@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+.responsive {
+    width: 100%;
+    height:400px;
+
+  }
+ 
+  .container {
+    position: relative;
+  color: white;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom:50px;
+    left:150px;
+  }
+  .interior{
+    font-family: 'Carter One', cursive;
+    font-size:30px;
+    color: black;
+  }
+  .furnish{
+      background-color: yellow;
+      color: black;
+      font-weight:bold;
+      display:inline;
+      font-size: 20px;
+  }
+  .design{
+      text-align: center;
+  }
+  .text{
+      margin-left:350px;
+      margin-right: 100px;
+      text-align: center;
+      width:70ch;
+  }
+  .about{
+      background-color: rgb(255, 200, 248);
+      height:250px;
+     
+   
+  }
+  .head{
+      text-align: center;
+  }
+  .center{
+        margin-left:45vw;
+  }
+.flex{
+    display: flex;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    grid-gap: 10px;
+    padding: 10px;
+    
+}
+.contactus{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+}
+.copyright{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dreamzone{
+    display: flex;
+    justify-content: space-evenly;
+}
+.tr{
+    display: flex;
+    align-self: center;
+}
+.design1{
+    font-weight:600;
+    font-size: 30px;
+    margin-bottom:20px;
+}
+.design{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.text{
+    margin-left:350px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    width:70ch;
+    font-weight:501;
+}
+.head{
+    padding-top:20px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.about{
+    margin:0 20px;
+}
+.bold{
+    font-weight: 501;
+}
+.service{
+    margin: 30px;
+}
+.hea{
+    margin-left:40%;
+    margin-top:20px;
+    font-weight: 600;
+}
+.desc{
+    margin-left: 50px;
+    width: 70ch;
+}
+.us{
+    margin-left:50px;
+    margin-top:20px;
+    font-weight: 600;
+    font-weight: bold;
+}
+.phone{
+    margin-top:40px;
+    color: brown;
+}
+.align{
+    margin-left:50px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.contactus{
+    margin:20px
+}
+.head1{
+    font-weight: 600;
+    color: brown;
+    font-size:25px;
+}
+ul{
+    list-style: none;
+
+}
+li{
+    margin: 5px;
+}
+a{
+    color: black;
+    font-weight: 501;
+}
+.caption{
+    float: right;
+}
+.dream{
+    color: brown;
+}
+.int{
+    font-size: small;
+    font-weight: 400;
+}
